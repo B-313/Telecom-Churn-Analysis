@@ -1,0 +1,13 @@
+*Telecom Customer Churn Analysis*
+
+Analysis of 7,043 telecom customers to identify churn patterns and revenue retention opportunities using SQL.
+
+*Insights*
+- Month-to-month contract customers churn at 42.7% (15X higher than two-year contract customers (2.8%))
+- £1.45M in annual revenue at risk from month-to-month customer churn alone.
+- Contract type is the strongest predictor of customer retention.
+- One-year contracts show moderate churn (11.3%), suggesting mid-term commitments balance flexibility and retention.
+
+About Me:
+Created by Bhanuja Kumar as part of placement preparation portfolio.  
+MSc Data Science & AI | University of Liverpool
